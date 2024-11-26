@@ -140,7 +140,7 @@ This proposal doesn't actually define what loaders are allowed to do with this A
 
 ### Static Asset Specifier
 
-The static specifiers isn't strictly a requirement since there isn't anything at run that needs to be resolve it in a web browser. However, even if it's not going to be in the standard, bundlers are going to require it anyway. To write interoperable code you need to know how to write it so either this is going to be a pseudo standard or we can make explicit syntax available that clarifies this constraint.
+The static specifiers isn't strictly a requirement since there isn't anything at run that needs to be resolved it in a web browser. However, even if it's not going to be in the standard, bundlers are going to require it anyway. To write interoperable code you need to know how to write it so either this is going to be a pseudo standard or we can make explicit syntax available that clarifies this constraint.
 
 ### Packaging
 
